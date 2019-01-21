@@ -1,0 +1,29 @@
+.square{
+	border: 2px solid black;
+	padding: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+	border-radius: 10%;
+	transition: background 0.5s;
+}
+h1{
+	border: 2px solid black;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;
+	color: white !important;
+	background: #343a40;
+}
+h2{
+	text-align: center;
+}
+.fade
+{
+	background: #FFFFFF;
+	border: 0px solid black;
+}
+h5{
+	text-align: center;
+	padding-top: 5px;
+}
